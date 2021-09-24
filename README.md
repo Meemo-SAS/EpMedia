@@ -1,2 +1,1 @@
-Fork of EPMedia https://github.com/yangjie10930/EpMedia
-Set the AndroidManifest allowBackup from true to false for React Native compatibilty
+Fork of EPMedia https://github.com/yangjie10930/EpMedia (library used for Android video merging)
